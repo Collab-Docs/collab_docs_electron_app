@@ -95,6 +95,6 @@
     "eslint-plugin-jsx-a11y": "^5",
     "eslint-plugin-react": "^7",
     "nodemon": "^1.18.3",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   }
 }
